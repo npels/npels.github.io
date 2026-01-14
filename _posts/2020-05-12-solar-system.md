@@ -13,4 +13,8 @@ share-img: /assets/img/solar-system/solar-system-thumb.png
 
 This was created for the final project of my Computer Graphics class at UC Berkeley. Myself and two other students created a procedurally generated solar system in Unity, populated with random terrestrial and gas planets that you could edit in real time.
 
-I implemented the generator and editor for terrestrial planets. My initial design was based off of a set of tutorials by Sebastian Lague (https://www.youtube.com/watch?v=QN39W020LqU&list=PLFt_AvWsXl0cONs3T0By4puYy6GM22ko8&index=1), though I spent a great deal of time adding new features and debugging it on my own. I also filmed and edited the trailer above.
+![A screenshot of the terrestrial planet editor](/assets/img/solar-system/solar-system-editor.png)
+
+I implemented the generator and editor for terrestrial planets. My initial design was based off of [a set of tutorials by Sebastian Lague](https://www.youtube.com/watch?v=QN39W020LqU&list=PLFt_AvWsXl0cONs3T0By4puYy6GM22ko8&index=1), though I expanded upon it and added a number of new features for the project. I also filmed and edited the trailer above.
+
+![A number of planets made using the generator](/assets/img/solar-system/solar-system-planets-collage.png)
